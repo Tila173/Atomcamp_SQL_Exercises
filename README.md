@@ -4,7 +4,7 @@ Welcome to my repository of SQL assignments from Atomcamp's Data Science and AI 
 
 ## What's Inside
 
-- SQL Assignment 1: Employee Database Management
+- SQL Assignment 1: Employee Database Management:
 This repository contains my solutions to the first SQL assignment from my Data Science and AI training at Atomcamp. The assignment involves creating and manipulating an employees table with various data operations.
 
 ## Tasks and Solutions
@@ -50,6 +50,8 @@ Created an employee_insurance table with insurance_id as the primary key.
 
 Task 10: Column Addition and Data Update
 Added an email column to the employees table and updated all records with a default value.
+
+
 - Assignment 2: Advanced data filtering with WHERE clauses.
 - Assignment 3: JOIN operations to combine multiple tables.
 - ... (and so on, for each assignment)
