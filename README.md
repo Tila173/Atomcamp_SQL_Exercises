@@ -53,7 +53,7 @@ Created an employee_insurance table with insurance_id as the primary key.
 Task 10: Column Addition and Data Update
 Added an email column to the employees table and updated all records with a default value.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------
 ## Overview
 
 The 2nd assignment consists of 15 queries that explore various aspects of data manipulation and retrieval, including joins, aggregations, and subqueries. The queries address real-world scenarios such as identifying pet owners, analyzing pet procedures, and classifying pets based on age and gender.
