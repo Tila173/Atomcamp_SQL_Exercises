@@ -6,6 +6,8 @@ Welcome to my repository of SQL assignments from Atomcamp's Data Science and AI 
 
 - SQL Assignment 1: Employee Database Management.
 This repository contains my solutions to the first SQL assignment from my Data Science and AI training at Atomcamp. The assignment involves creating and manipulating an employees table with various data operations.
+- SQL Assignment 2: Advanced Data Analysis.
+This repository contains my solutions to the second SQL assignment from my Data Science and AI training at Atomcamp. The assignment focuses on advanced data analysis using four datasets: PetOwners.csv, Pets.csv, ProceduresDetails.csv, and ProceduresHistory.csv.
 
 ## Tasks and Solutions
 ### Task 1: Table Creation
@@ -22,7 +24,7 @@ CREATE TABLE employees (
   phone_number CHAR(10),
   insurance_id VARCHAR(15),
   PRIMARY KEY (ID)
-); '''
+);
 
 Task 2: Data Insertion
 Inserted multiple records into the employees table with a single query. Modified the phone_number column to accommodate the data format.
@@ -52,12 +54,9 @@ Task 10: Column Addition and Data Update
 Added an email column to the employees table and updated all records with a default value.
 
 
-- SQL Assignment 2: Advanced Data Analysis.
-This repository contains my solutions to the second SQL assignment from my Data Science and AI training at Atomcamp. The assignment focuses on advanced data analysis using four datasets: PetOwners.csv, Pets.csv, ProceduresDetails.csv, and ProceduresHistory.csv.
-
 ## Overview
 
-The assignment consists of 15 queries that explore various aspects of data manipulation and retrieval, including joins, aggregations, and subqueries. The queries address real-world scenarios such as identifying pet owners, analyzing pet procedures, and classifying pets based on age and gender.
+The 2nd assignment consists of 15 queries that explore various aspects of data manipulation and retrieval, including joins, aggregations, and subqueries. The queries address real-world scenarios such as identifying pet owners, analyzing pet procedures, and classifying pets based on age and gender.
 
 ## Datasets
 
