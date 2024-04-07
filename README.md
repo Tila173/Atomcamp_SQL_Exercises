@@ -56,15 +56,18 @@ Added an email column to the employees table and updated all records with a defa
 This repository contains my solutions to the second SQL assignment from my Data Science and AI training at Atomcamp. The assignment focuses on advanced data analysis using four datasets: PetOwners.csv, Pets.csv, ProceduresDetails.csv, and ProceduresHistory.csv.
 
 ## Overview
+
 The assignment consists of 15 queries that explore various aspects of data manipulation and retrieval, including joins, aggregations, and subqueries. The queries address real-world scenarios such as identifying pet owners, analyzing pet procedures, and classifying pets based on age and gender.
 
 ## Datasets
+
 - PetOwners.csv: Contains information about pet owners.
 - Pets.csv: Details of pets, including their names, types, and owners.
 - ProceduresDetails.csv: Describes different procedures available for pets.
 - ProceduresHistory.csv: Historical data of procedures performed on pets.
 
 ## Queries
+
 1. List pet owners and their pets.
 2. Include pets without recorded owners.
 3. Full dataset combination using Left Join, Union, and Right Join.
